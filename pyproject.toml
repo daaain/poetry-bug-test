@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "poetry-bug-test"
+version = "1.0.0"
+description = "Poetry bug test"
+authors = ["Daniel Demmel <dain@beryl.cc>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+flake8="*"
