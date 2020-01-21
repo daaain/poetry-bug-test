@@ -7,3 +7,4 @@ authors = ["Daniel Demmel <dain@beryl.cc>"]
 [tool.poetry.dependencies]
 python = "^3.7"
 flake8="*"
+black={version = "*", allow-prereleases = true}
